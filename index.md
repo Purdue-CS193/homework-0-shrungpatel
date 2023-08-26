@@ -1,6 +1,13 @@
-## Welcome to GitHub Pages
+# Shrung Patel's First CS193 Homework
 
 Hi, my name is Shrung Patel.
+
+- I like that it is very chill
+- I met my intstructor randomly out of class
+- The syllabus presentation theme was awesome
+- The responses on Edstem are quick
+  
+
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
